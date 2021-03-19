@@ -1,0 +1,4 @@
+dark brown -----2 	5VPOWER
+violet----9  GND
+gray -----29 GPIO(5)
+orange----31 GPIO(6)

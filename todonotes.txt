@@ -1,0 +1,3 @@
+validation of rice type and price bawal tumanggap ng letter, negative value, at zero ang price
+
+transaction log

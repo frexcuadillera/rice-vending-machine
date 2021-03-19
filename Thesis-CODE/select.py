@@ -1,0 +1,2 @@
+def select():
+    import Customer

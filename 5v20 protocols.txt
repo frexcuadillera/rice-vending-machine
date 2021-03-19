@@ -1,0 +1,6 @@
+ssp
+pulse
+parallel
+binary
+cctalk
+mdb
